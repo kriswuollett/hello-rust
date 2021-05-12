@@ -1,5 +1,7 @@
 # Rust Getting Started
 
+The code and any follow up explorations from following the [Rust Getting Started Guide](https://www.rust-lang.org/learn/get-started).
+
 ## Installation
 
 ```console
