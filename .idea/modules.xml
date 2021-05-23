@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/example-structs/example-structs.iml" filepath="$PROJECT_DIR$/example-structs/example-structs.iml" />
       <module fileurl="file://$PROJECT_DIR$/guessing_game/guessing_game.iml" filepath="$PROJECT_DIR$/guessing_game/guessing_game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello/hello.iml" filepath="$PROJECT_DIR$/hello/hello.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello-rust/hello-rust.iml" filepath="$PROJECT_DIR$/hello-rust/hello-rust.iml" />
       <module fileurl="file://$PROJECT_DIR$/minigrep/minigrep.iml" filepath="$PROJECT_DIR$/minigrep/minigrep.iml" />
     </modules>
